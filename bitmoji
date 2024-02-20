@@ -1,2 +1,2 @@
 library(RBitmoji)
-my_id <- get_id("greenwell.brandon@gmail.com")    
+my_id <- get_id("khill@wtamu.edu")
